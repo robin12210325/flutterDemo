@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_app/Home.dart';
+import 'HomePage.dart';
 
 class MinePage extends StatelessWidget {
 

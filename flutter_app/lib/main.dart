@@ -8,6 +8,6 @@ import 'HomePage.dart';
 void main() {
   runApp(new MaterialApp(
     title: 'My First Flutter App',
-    home: new HomePage(),
+    home: new SpashPage(),
   ));
 }
